@@ -1,3 +1,6 @@
+Skapade en guide för en tidigare kurs som jag tänkte att jag kunde dela med mig av.
+
+
 #Git for Dummies, Mac edition
 En guide för hur git-kommandon används i Mac’s terminal (command line), instruktionerna gäller till största del även för PC. Kommandon i git och terminal (command line) kommer att förklaras och presenteras för att ge en inblick i vad som kan göras. Guiden kommer använda sig av en fabriksmetafor för att ge I:are möjlighet att förstå git utifrån ett mer familjärt perspektiv.
 
