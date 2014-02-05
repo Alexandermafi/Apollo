@@ -8,7 +8,7 @@
  */
 $ap->data['header'] = '<h1>Header: Apollo</h1>';
 $ap->data['footer'] = <<<EOD
-<p>Footer: &copy; Apollo by Alexander mafi </p>
+<p>Footer: &copy; Apollo by Alexander Mafi </p>
 
 <p>Tools: 
 <a href="http://validator.w3.org/check/referer">html5</a>

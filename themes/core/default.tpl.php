@@ -14,7 +14,7 @@
     <?=get_debug()?>
   </div>
   <div id="footer">
-    <?=$footer?> 
+    <?=$footer?>
   </div>
 </body>
-</html>
+</html> 
